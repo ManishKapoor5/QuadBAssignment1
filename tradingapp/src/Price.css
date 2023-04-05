@@ -1,0 +1,68 @@
+.DisplayPrice{
+    display: flex;
+    justify-content: space-around;
+}
+
+.PercentDetails{
+    display:flex;
+    justify-content: space-around;
+    font-size: 35px;
+    margin-top: 75px;
+}
+
+
+.Percent{
+    color: aquamarine;
+   margin-top: 15px;
+   font-size: 45px;
+}
+
+.Percent1{
+    color: aquamarine;
+    margin-top: 15px;
+    font-size: 45px;
+    /* justify-content: left; */
+}
+
+.Percent2{
+    color: aquamarine;
+    font-size: 45px;
+    /* justify-content: left; */
+}
+
+.Percent3{
+    color: aquamarine;
+    font-size: 45px;
+    /* justify-content: left; */
+}
+
+.Price{
+    color: #fff;
+    font-size: 75px ;
+    margin: 10px;
+    font-family: oswald sans-serif;
+    align-items: center;
+}
+label{
+    color:darkgrey;
+}
+
+.Duration1{
+    display: flex;
+    justify-content: center;
+}
+
+.Duration2{
+    display: flex;
+    justify-content: center;
+}
+
+.Duration3{
+    display: flex;
+    justify-content: center;
+}
+
+.Duration4{
+    display: flex;
+    justify-content: center;
+}
